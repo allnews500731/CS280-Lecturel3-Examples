@@ -1,0 +1,11 @@
+D:\CSharp-Projects\CS280-lecture3-Examples\Example03\bin\Debug\Example03.exe.config
+D:\CSharp-Projects\CS280-lecture3-Examples\Example03\obj\Debug\Example03.csprojResolveAssemblyReference.cache
+D:\CSharp-Projects\CS280-lecture3-Examples\Example03\obj\Debug\Example03.Form1.resources
+D:\CSharp-Projects\CS280-lecture3-Examples\Example03\obj\Debug\Example03.Properties.Resources.resources
+D:\CSharp-Projects\CS280-lecture3-Examples\Example03\obj\Debug\Example03.csproj.GenerateResource.Cache
+D:\CSharp-Projects\CS280-lecture3-Examples\Example03\bin\Debug\Example03.exe
+D:\CSharp-Projects\CS280-lecture3-Examples\Example03\bin\Debug\Example03.pdb
+D:\CSharp-Projects\CS280-lecture3-Examples\Example03\bin\Debug\StoreLibrary.dll
+D:\CSharp-Projects\CS280-lecture3-Examples\Example03\bin\Debug\StoreLibrary.pdb
+D:\CSharp-Projects\CS280-lecture3-Examples\Example03\obj\Debug\Example03.exe
+D:\CSharp-Projects\CS280-lecture3-Examples\Example03\obj\Debug\Example03.pdb
